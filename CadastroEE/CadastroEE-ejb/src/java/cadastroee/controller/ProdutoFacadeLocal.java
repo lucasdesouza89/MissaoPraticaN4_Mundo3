@@ -4,10 +4,7 @@ import cadastroee.model.Produto;
 import java.util.List;
 import javax.ejb.Local;
 
-/**
- *
- * @author wfeli
- */
+
 @Local
 public interface ProdutoFacadeLocal {
 
