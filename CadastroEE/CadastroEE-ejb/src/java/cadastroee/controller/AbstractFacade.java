@@ -3,10 +3,7 @@ package cadastroee.controller;
 import java.util.List;
 import javax.persistence.EntityManager;
 
-/**
- *
- * @author wfeli
- */
+
 public abstract class AbstractFacade<T> {
 
     private Class<T> entityClass;
